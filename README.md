@@ -1,10 +1,12 @@
-My Python Projects Repository 
+# My Python Projects Repository 
 
 Projects Included:
-Project 1 - BMI calculator 
+
+## Project 1 - BMI calculator 
+
 📌 Description: The BMI (Body Mass Index) Calculator is a simple Python + Streamlit web app that calculates a user's BMI based on their height and weight and determines their weight category (Underweight, Normal, Overweight, or Obese).
 
-⚡ Features:
+# ⚡ Features:
 ✅ User-friendly interface (built with Streamlit)
 ✅ Input fields for height and weight
 ✅ Accurate BMI calculation
@@ -18,10 +20,10 @@ Project 1 - BMI calculator
       streamlit run app.py
 3. Open the browser and visit the localhost URL displayed in the terminal.
 
- Project 2 - Website Project 🌐 
+## Project 2 - Website Project 🌐 
  📌 Description: This Website Project is a responsive and interactive website built using Python + Streamlit. It provides a simple, modern, and user-friendly interface to showcase information, interact with users, and visualize data.
 
-⚡ Features:
+# ⚡ Features:
 ✅ Clean and minimalistic UI
 ✅ Fast and lightweight (built with Streamlit)
 ✅ Responsive design (works on desktop & mobile)
