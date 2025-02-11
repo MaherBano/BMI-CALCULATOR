@@ -8,9 +8,13 @@ Projects Included:
 
 # ⚡ Features:
 ✅ User-friendly interface (built with Streamlit)
+
 ✅ Input fields for height and weight
+
 ✅ Accurate BMI calculation
+
 ✅ Displays BMI category (Underweight, Normal, Overweight, Obese)
+
 ✅ Real-time and interactive results
 
 📌 How to Run:
@@ -25,9 +29,13 @@ Projects Included:
 
 # ⚡ Features:
 ✅ Clean and minimalistic UI
+
 ✅ Fast and lightweight (built with Streamlit)
+
 ✅ Responsive design (works on desktop & mobile)
+
 ✅ User interaction (buttons, forms, inputs)
+
 ✅ Dynamic content display
 
 📌 How to Run:
